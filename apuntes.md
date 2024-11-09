@@ -17,3 +17,6 @@ git push origin master
 dvc
 dvc add data
 dvc push -r origin -> subir a dvc a dagshub 
+
+git hub actions poner variable de entorno
+secreto de aws
