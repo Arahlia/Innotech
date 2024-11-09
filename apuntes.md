@@ -20,3 +20,4 @@ dvc push -r origin -> subir a dvc a dagshub
 
 git hub actions poner variable de entorno
 secreto de aws
+dvc push -r origin -> subir a dvc a dagshub 
