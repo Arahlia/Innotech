@@ -3,9 +3,6 @@ on:
   - workflow_dispatch
   - push
 
-vars:
-  TEAM_NAME: GBELL
-
 jobs:
   test_and_deploy_model:
     name: Test processed code and deploy model
